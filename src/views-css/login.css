@@ -1,0 +1,80 @@
+/* Login */
+
+.card{
+    padding: 50px;
+    background-color: rgba(245, 245, 245, 0.404);
+    margin-top: 15%;
+    font-weight: 500;
+    font-family: 'Satisfy'; 
+}
+
+.card-text{
+    font-size: 20px;
+}
+
+.card-input{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-login{
+    font-family: 'Satisfy';    
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.buttom-login{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+Button{
+    font-family: 'Satisfy', cursive;
+    color:aliceblue;
+    background: #fe8c00;  
+    background: -webkit-linear-gradient(to right, #f83600, #fe8c00);
+    background: linear-gradient(to right, #f83600, #fe8c00); 
+}
+
+
+/* Navbar */
+
+.navbar{
+    background: #fe8c00;  
+    background: -webkit-linear-gradient(to right, #f83600, #fe8c00);
+    background: linear-gradient(to right, #f83600, #fe8c00); 
+}
+
+.navbar-brand{
+    text-decoration: none;
+    font-family: 'Great Vibes', cursive;
+    color: aliceblue;
+    font-size: 30px;
+    padding: 0;
+}
+
+.navbar-brand:hover{
+    color: aliceblue;
+}
+
+.nav-button {
+    text-decoration: none;
+    font-family: 'Satisfy';
+    color: aliceblue !important;
+    background-color: #f83b07da;
+    padding: 9px;
+    margin-left: 9px;
+
+}
+
+.nav-button:hover{
+    color: aliceblue;
+    background-color: #f16423;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 400;
+    font-size: 60px;
+    margin-bottom: -50px;
+}
